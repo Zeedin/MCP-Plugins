@@ -1,0 +1,15 @@
+name: CDGS_Reindeer
+main: zeedin.cdgs.Reindeer.reindeer
+version: 1.1
+author: Zeedin
+description: Adds god dam Reindeer.
+commands:
+  reindeer:
+    description: An example command
+    permission: Reindeer.Admin
+    permission-message: You don't have the Reindeer.Admin permission.
+    
+  reindeer-set:
+    description: An example command
+    permission: Reindeer.Admin
+    permission-message: You don't have the Reindeer.Admin permission.

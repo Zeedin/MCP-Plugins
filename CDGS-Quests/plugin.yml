@@ -1,0 +1,25 @@
+name: CDGS_Quests
+main: zeedin.cdgs.CDGSQuests.main
+version: 1.0
+author: Zeedin
+description: Quests for CDGS/MCP, and made by Zeedin.
+commands:
+  quest:
+    description: Shows Quest Commands
+    permission: CDGS.Quests
+    permission-message: Sorry you need to be (Rank) or higher to use quests.
+    
+  quest claim:
+    description: Claims a quest
+    permission: CDGS.Quests
+    permission-message: Sorry you need to be (Rank) or higher to use quests.
+
+  quest status:
+    description: Shows your status on a quest
+    permission: CDGS.Quests
+    permission-message: Sorry you need to be (Rank) or higher to use quests.
+    
+  quest-test:
+    description: Debug Command
+    permission: CDGS.Quests.Admin
+    permission-message: You don't have permission for this command.

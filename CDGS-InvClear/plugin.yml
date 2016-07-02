@@ -1,0 +1,11 @@
+name: CDGS_ClearInv
+main: zeedin.cdgs.ClearInv.Main
+version: 1.0
+author: Zeedin
+description: Player Inventory Clearer.
+commands:
+  clearall:
+    description: Clears a player inventory
+    permission: CDGS-ClearInv.Admin
+    permission-message: You don't have permission for this command.
+

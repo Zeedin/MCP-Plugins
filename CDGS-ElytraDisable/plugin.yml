@@ -1,0 +1,17 @@
+name: CDGS_Elytras
+main: zeedin.cdgs.Elytras.Main
+version: 1.0
+author: Zeedin
+website: "http://cdgs.net"
+prefix: [CDGS_Elytras]
+
+description: Disables Elytras in select worlds.
+
+commands:
+  Elytras:
+    description: Info On Plugin
+    
+  Elytras reload:
+    description: Reloads config
+    permission: CDGS-Elytras.Admin
+    permission-message: You don't have permission for this command.

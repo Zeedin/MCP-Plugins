@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_79"/>
+	<classpathentry kind="lib" path="E:/Programs/Eclips/worldguard.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.sk89q.com/worldguard/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Programs/Eclips/WorldEdit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://docs.sk89q.com/worldedit/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Programs/Eclips/spigot-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
